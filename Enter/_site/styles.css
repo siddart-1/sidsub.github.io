@@ -1,0 +1,11 @@
+/* css styles */
+body {
+    background-image: url("img/ds2.jpg");
+    
+    height: 100px;
+    width: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+  
